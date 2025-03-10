@@ -1,98 +1,11 @@
-# A website template for academics
+# Yuchen Sun (孙宇宸)
 
-## Users
-
-Some users:
-<a href="https://ilafly.github.io/" target="_blank">★</a>
-<a href="https://i-vesseg.github.io/" target="_blank">★</a>
-<a href="https://xfangsn.github.io/" target="_blank">★</a>
-<a href="https://joshuagob.github.io" target="_blank">★</a>
-<a href="https://bczheng.com/" target="_blank">★</a>
-<a href="https://bazilinskyy.github.io/" target="_blank">★</a>
-<a href="https://www.coreytcallaghan.com/" target="_blank">★</a>
-<a href="https://minseoksong.github.io/" target="_blank">★</a>
-<a href="https://acme-group-cmu.github.io/" target="_blank">★</a>
-<a href="https://barrylee36.github.io/" target="_blank">★</a>
-<a href="https://adisun94.github.io/" target="_blank">★</a>
-<a href="https://comp-physics.group" target="_blank">★</a>
-<a href="https://spike.doc.ic.ac.uk/" target="_blank">★</a>
-<a href="http://www.msc.univ-paris-diderot.fr/~berhanu/" target="_blank">★</a>
-<a href="https://mashadab.github.io/" target="_blank">★</a>
-<a href="https://home.iitk.ac.in/~lalit/" target="_blank">★</a>
-<a href="https://ethan-pickering.github.io/" target="_blank">★</a>
-<a href="https://pedro-dm-gomes.github.io/" target="_blank">★</a>
-<a href="https://3tbk.github.io/3tbk/" target="_blank">★</a>
-<a href="https://felipesua.github.io/" target="_blank">★</a>
-<a href="https://shivvrat.github.io/" target="_blank">★</a>
-<a href="https://ritamraha.github.io/" target="_blank">★</a>
-<a href="https://matsesseldeurs.github.io/" target="_blank">★</a>
-<a href="https://michelleblom.github.io/" target="_blank">★</a>
-<a href="https://jrd971000.github.io/" target="_blank">★</a>
-<a href="https://melashri.net/" target="_blank">★</a>
-<a href="https://sahatulika15.github.io" target="_blank">★</a>
-<a href="https://mzhanglab.github.io" target="_blank">★</a>
-<a href="https://soar-lab.github.io" target="_blank">★</a>
-<a href="https://azharghafoor.github.io/" target="_blank">★</a>
-<a href="https://hyunwoo.info/" target="_blank">★</a>
-<a href="https://computervision0.github.io/" target="_blank">★</a>
-<a href="https://adrashid.github.io/personal-webpage/index.html" target="_blank">★</a>
-<a href="https://aleemkhan62.github.io/" target="_blank">★</a>
-<a href="https://vaibhavb007.github.io/" target="_blank">★</a>
-<a href="https://gabry993.github.io/" target="_blank">★</a>
-<a href="https://shantnuu.github.io/" target="_blank">★</a>
-<a href="https://wenbinluomath.github.io/" target="_blank">★</a>
-<a href="https://aibio-lab.github.io/" target="_blank">★</a>
-<a href="https://shantnuu.github.io/" target="_blank">★</a>
-<a href="https://wenbinluomath.github.io/" target="_blank">★</a>
-<a href="https://dartsushi.github.io/" target="_blank">★</a>
-<a href="https://efstathia-soufleri.github.io/" target="_blank">★</a>
-<a href="https://zchoffin.github.io/" target="_blank">★</a>
-<a href="https://wangyb97.github.io/" target="_blank">★</a>
-<a href="https://sgleem.github.io/" target="_blank">★</a>
-<a href="https://has97.github.io/" target="_blank">★</a>
-<a href="https://albertgassol1.github.io/" target="_blank">★</a>
-<a href="https://seanpark05.github.io/" target="_blank">★</a>
-<a href="https://miki998.github.io/" target="_blank">★</a>
-<a href="https://wilfonba.github.io/" target="_blank">★</a>
-<a href="https://saharnazb.github.io/" target="_blank">★</a>
-<a href="https://mvmacfarlane.github.io/" target="_blank">★</a>
-<a href="https://saharnaz.org/" target="_blank">★</a>
-<a href="https://www.isnicholas.com/" target="_blank">★</a>
-<a href="https://jojox666.github.io/" target="_blank">★</a>
-<a href="https://wenbinluomath.github.io/" target="_blank">★</a>
-<a href="https://dartsushi.github.io/" target="_blank">★</a>
-<a href="https://zhiyu7.github.io/" target="_blank">★</a>
-<a href="https://awen-li.github.io/" target="_blank">★</a>
-<a href="https://yukiiwong.github.io/" target="_blank">★</a>
-<a href="https://joeyleehk.github.io/" target="_blank">★</a>
-<a href="https://fabayocbocjr.github.io/" target="_blank">★</a>
-<a href="https://www.quantumcookie.xyz/" target="_blank">★</a>
-<a href="https://adityanandy.github.io/" target="_blank">★</a>
-<a href="https://jlastro.github.io/" target="_blank">★</a>
-<a href="https://yunzhe-li.top/" target="_blank">★</a>
-<a href="https://xia-hu.github.io/" target="_blank">★</a>
-<a href="https://p-bajpai.github.io/" target="_blank">★</a>
-<a href="https://zchoffin.github.io/" target="_blank">★</a>
-
-__If you are using this template, feel free to share your site with me, and I'll add it here!__
 
 ## Introduction 
 
-This is a statically-generated Jekyll/Liquid/Bootstrap-based website template for academics.
-I started with the [Allan lab](https://www.allanlab.org/) webpage and modified it into a personal academic webpage that met my requirements.
-I worked in a unique set of the features that I desired and could not find in publicly available templates elsewhere.
-Some examples are:
 
-* Automatically generated buttons for DOI/PDF/ARXIV/BIB/Abstract information
-  * via Jekyll Scholar
-* Bibliography information and abstracts open in drown-down wells via buttons
-* Fontawesome icons (email, CV, Google Scholar, ResearchGate, GitHub, etc.)
-* Dark color scheme via Bootswatch
-* Consistent and attractive `About me` page
 
-I encourage using this webpage as a template for your academic website.
-The remainder of this document describes how to do this.
-Broadly speaking, there are three steps:
+
 
 * [Fork](#fork-and-build)
 * [Customize](#customization)
